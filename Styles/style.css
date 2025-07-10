@@ -261,3 +261,64 @@ color: #00000050;
 .wc-big{
   border-radius: 48px;
 }
+
+.section4{
+  margin-bottom: 100px;
+}
+
+.h10{
+  color: #000000;
+  font-size: 97px;
+  font-weight: 700;
+}
+
+
+.div5{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.label{
+  color: #000000;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.input{
+  width: 500px;
+  height: 50px;
+  font-size: 22px;
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.textarea{
+  width: 500px;
+  height: 120px;
+  font-size: 22px;
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.submit{
+  width: 500px;
+  height: 50px;
+  background: #4E47FF;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.submit:hover{
+  background-color: #04006c;
+  transform: scale(1.05);
+}
