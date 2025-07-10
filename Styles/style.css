@@ -322,3 +322,50 @@ color: #00000050;
   background-color: #04006c;
   transform: scale(1.05);
 }
+
+/* Footer Section */
+
+footer{
+  padding:20px;
+  padding-bottom: 70px;
+  background: #FFFFFF;
+}
+
+.div6{
+  display: flex;
+  justify-content: center;
+}
+
+.logo1 {
+  width: 290px;
+}
+
+.p6{
+  color: #8987A1;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  margin-top: -30px;
+}
+
+ul li{
+  list-style: none;
+  margin-top: 20px;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #8987A1;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+ul li a:hover{
+  padding: 10px 18px;
+  background: rgb(75, 74, 74);
+}
+.div7 ul{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
